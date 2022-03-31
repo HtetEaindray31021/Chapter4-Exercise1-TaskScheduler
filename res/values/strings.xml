@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Task Scheduler</string>
+    <string name="Alarm">Alarm</string>
+    <string name="DueDate">Due Date:</string>
+    <string name="Save">Save</string>
+    <string name="StartDate">Start Date:</string>
+    <string name="StartTime">Start Time:</string>
+    <string name="Task">Task:</string>
+ 
+
+</resources>
